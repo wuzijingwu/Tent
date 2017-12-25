@@ -9,8 +9,8 @@ import com.facebook.drawee.backends.pipeline.Fresco;
 import org.xutils.BuildConfig;
 import org.xutils.x;
 
-//bvhusdfvbhus
-
+//bvhusdfvbhus被撤销 很多遍第三版vidsyv
+//njvnsijdfvnsjnvf hb
 public class MyApp extends Application{
     @Override
     public void onCreate() {

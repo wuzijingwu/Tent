@@ -1,1 +1,1 @@
-include ':app', ':TestTen-master'
+include ':TestTen-master'
